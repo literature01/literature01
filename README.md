@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @literature01
-- 👀 I’m interested in coding.
-- 🌱 I’m currently learning Lua.
-- 💞️ I’m looking to collaborate on idk.
-- 📫 How to reach me, never.
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: i gambled my parents life savings (joke)
+hi, i lobotomized 16 kids thoughtout somewhere
 
 <!---
 literature01/literature01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
